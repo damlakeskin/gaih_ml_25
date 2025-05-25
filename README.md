@@ -95,7 +95,7 @@ Detaylı kod ve görseller için Kaggle defterine göz atabilirsiniz.
 
 | Algoritma                   | Neden Seçildi?                      |
 | --------------------------- | ----------------------------------- |
-| **Random Forest Regressor** | Non-lineer ilişkiler & feature önem |
+| **Random Forest Regressor** | Non-lineer ilişkiler & feature önemli |
 | XGBoost Regressor           | Boosting ile yüksek doğruluk        |
 | HistGradientBoostingReg.    | Büyük veri & hız                    |
 
