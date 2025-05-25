@@ -2,6 +2,7 @@
 
 **Kaggle Notebook:** <https://www.kaggle.com/code/ayemdamlakeskin/gaih-ml-25?scriptVersionId=241819790>  
 **Kaggle Veri Seti:** <https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata>  
+**Not**: Kodlar kısmında folium ile oluşturduğum haritalama mevcuttur. Github'da gözükmediği için [Colab Link](https://colab.research.google.com/drive/1K6LbgJ9I8jG5qIZQTNpNaAV6ic_wt_y7?usp=sharing#scrollTo=Aj6y1yMmPKU6) inceleyebilirsiniz.
 
 ## İçindekiler
 1. [Proje Tanıtımı](#proje-tanıtımı)  
